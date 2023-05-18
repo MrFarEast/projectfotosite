@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+.Homepage {
+    /* background-color: white; */
+    /* background-image: url('/projectfotosite/public/bear.jpeg'); */
+    /* margin-top: 10px; */
+    background-image: url(../../../public/winter_mountain.jpeg);
+    width: 100%;
+    height: 650px;
+    background-size: cover;
+    
+    /* margin-top: 3px; */
+}
+
+h1, p {
+    align-items: center;
+    justify-content: center;
+    font-family: 'Pacifico';
+    margin: 0;
+    font-weight: 100;
+    
+    
+}
+
+.text_content {
+    margin-left: 800px;
+    text-align: center;
+    height: 100px;
+    width: 500px;
+    color: aliceblue;
+    
+}
+

@@ -1,0 +1,7 @@
+[
+    {"id": 1, "name": "Пейзажи", "img": "/sunset.jpeg"},
+    {"id": 2, "name": "Животные", "img": "/bear.jpeg"},
+    {"id": 3, "name": "Архитектура", "img": "/moscow_city.jpeg"},
+    {"id": 4, "name": "Видео", "img": "/Aniva_lighthouse.jpeg"},
+    {"id": 5, "name": "Разное", "img": "/fluff.jpeg" }
+]
